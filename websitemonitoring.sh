@@ -1,4 +1,3 @@
-#sudo bash sts.sh vcubesoftware.in 2> /dev/null
 flag=`echo $1|awk '{print match($0,"://")}'`;
 if [ $flag -gt 0 ];then
     echo "Please enter only domain name. EX: mysite.com";
