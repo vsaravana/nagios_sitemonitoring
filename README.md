@@ -11,9 +11,9 @@ Dependencies:
  
 Prerequesties:
 --------------
- 1. Make sure that you've installed sitemap in you website and xmlstarlet, wget and awk in your PC.
+ 1. Make sure that you've installed sitemap in your website and xmlstarlet, wget and awk in your PC.
  2. Enter only domain name while executing the script. Example: mysite.com. No need to mention http or https.
- 3. Enter the sitemap path staring with "/" and ending with ".xml"
+ 3. Enter the sitemap path starting with "/" and ending with ".xml"
 
 
 Syntax:
